@@ -3,4 +3,4 @@ Odin Project Files
 
 Hello Odin!
 
-Lesson is going good.
+Lesson is going really good.
